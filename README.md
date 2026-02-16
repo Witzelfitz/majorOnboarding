@@ -20,7 +20,7 @@ Schnellzugriff auf alle Themen in alphabetischer Reihenfolge:
 
 ## Kategorien
 
-### 1. Grundlagen
+### 1. Grundlagen (FS 2026)
 
 Die Basis für alles Weitere — Terminal, Paketverwaltung, Versionskontrolle und Code-Editor.
 
@@ -30,7 +30,7 @@ Die Basis für alles Weitere — Terminal, Paketverwaltung, Versionskontrolle un
 - [GitHub](resources/github.md) — Remote-Repos, SSH-Keys, Pull Requests, GitHub Pages
 - [VS Code](resources/vscode.md) — Der Code-Editor: Extensions, Shortcuts, Settings
 
-### 2. Runtime & Paketmanager
+### 2. Runtime & Paketmanager (FS 2026)
 
 Node.js und die dazugehörigen Paketmanager bilden das Fundament moderner JavaScript-Entwicklung.
 
@@ -40,8 +40,8 @@ Node.js und die dazugehörigen Paketmanager bilden das Fundament moderner JavaSc
 
 Die wichtigsten Werkzeuge für moderne Frontend-Entwicklung.
 
-- [Vite](resources/vite.md) — Build-Tool: Projekt erstellen & konfigurieren
-- [TypeScript](resources/typescript.md) — Typsicheres JavaScript: Grundlagen & Konfiguration
+<!-- - [Vite](resources/vite.md) — Build-Tool: Projekt erstellen & konfigurieren
+- [TypeScript](resources/typescript.md) — Typsicheres JavaScript: Grundlagen & Konfiguration -->
 <!-- - [React](resources/) — UI-Bibliothek (kommt bald) -->
 <!-- - [Tailwind CSS](resources/) — Utility-First CSS (kommt bald) -->
 
@@ -55,11 +55,11 @@ Server, APIs und Datenbanken.
 
 *Guides für diese Kategorie sind in Planung.*
 
-### 5. DevOps & Deployment
+### 5. DevOps & Deployment (HS 2025)
 
 Von der lokalen Entwicklung in die Produktion.
 
-- [Docker](resources/docker.md) — Container: Installation, Dockerfile, Docker Compose
+<!-- - [Docker](resources/docker.md) — Container: Installation, Dockerfile, Docker Compose -->
 - [Deployment](resources/deployment.md) — Vercel, Netlify & GitHub Pages
 
 ### 6. Tools & Workflow
