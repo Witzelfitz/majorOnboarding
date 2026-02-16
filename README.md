@@ -20,6 +20,10 @@ Schnellzugriff auf alle Themen in alphabetischer Reihenfolge:
 
 ## Kategorien
 
+### 🚀 Session 1 — Setup
+
+- [**Setup & Werkzeuge einrichten**](resources/session-setup.md) — Ablauf, Checkliste & Smoke-Test für die erste Session
+
 ### 1. Grundlagen (FS 2026)
 
 Die Basis für alles Weitere — Terminal, Paketverwaltung, Versionskontrolle und Code-Editor.
